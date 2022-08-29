@@ -1,3 +1,5 @@
+# group work by Mahla Nazari and Parniyan Oghani
+
 class Rectangle:
     """
     This Class Show Properties of a Rectangle
